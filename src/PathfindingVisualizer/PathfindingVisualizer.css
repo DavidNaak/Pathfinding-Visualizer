@@ -1,3 +1,13 @@
 .grid {
-    margin:auto;
+    margin-top: 15px;
+    margin-left: 0;
+    line-height: 0;
+}
+
+.firstawesomebutton {
+    margin-left: 15px;
+    margin-right: 2px;
+}
+.awesomebuttons {
+    margin-top: 15px;
 }
